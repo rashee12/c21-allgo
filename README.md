@@ -1,1 +1,2 @@
-# c21-allgo
+# collisionAlgorithm
+Algorithm to detect collision between two objects
